@@ -1,16 +1,15 @@
 {
   "expo": {
-    "name": "Blank Template",
-    "slug": "rn-complete-guide",
+    "name": "Aaron ToDo",
+    "slug": "aaron-todo",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
